@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-ruchita",
+  "private_key_id": "8f71077b7512469f1c771e187e2af941ad8c2634",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCST4tGRDFfqri1\nLkK1VtYeKT3cs0KyX63hWI5IQfUdbafiN52YSiktgl7dcGQVKFTH7PziQOQpZR31\nSAz4Jco1qjOtYJgRPZwxwzCGXSjsWrNlbxLGdNrCxNzrY9ZHSQlAtNPXrHVqtsXg\nIkwPQH+nFGJpORbZg/zSxVU9UKYwaC9g1EDSvbv0zQRT+3BhLz0S609x7CCradka\nXlCRPEpxiPBsMSOIG69YicCWiftDpQfYh7GR3gWPW/ko30kEuHZb58BNsqu+DwRZ\n98QpXNbyakhQI/q5aUgacMcKceT6pz0ANvVf48DuQGVlcU3/CzBsSfhMjHPeE/gI\nqcs77aatAgMBAAECggEADA7EIplSHFk8eaoDU2CBquCpOXwIfhzGfrDGoQvWgINd\n95WvxjIubJK28LbneJrnScatHJROeV7c9i7m6rhqjrulIJ+6SIl0SuGUKS6aRcg/\nypc5y+MreCuzLS8AJMXPHmcIoliTIKVJb2xEKmmdW46hgZxz1p87Ab/Dg5cW6xw7\nCrJ86N1h518bjKnKooKtDp/UErtLJ1zM2bpj3MR5BDYuxYCg2gxFSjO6uKV9Wy8L\nSnQv3wkgF8Az82VZWiUGMjHnWo4MsRNJkIHMBycfxLBOl+dHjoBFPweN/VfshY/p\n39mnLZGEgsX+9MrUcNYZoyfP+/5Q2xWCULBDDxD63QKBgQDGSIakviey5/htX3W2\n1zFQpqWfLZj8F6/yxE6LZ8jfYzsbjfajUOlqoJ7QtbwczI0LqkWaLTG+ZrknG9I/\n0lqSj/aAe8aoWmA1nPgWMFRPXDUNjqlcTl87vSry4MFMOdKiy2EPXQKjmfmzWpda\nsHDVFfVM62ebrmLeCRwQ9YMTewKBgQC85i199y9hgfOv2a23D1td4Yq3HPdulSZ6\n28MA+LWMrSy/gZe3l7G1FAMpTrYraJ4+LvJN1/52CraltHLcMSn44O9sEY8ly3yh\nJonSPDCh8wLItGcp4BMdCNFeklmgaKX9I3ZvsZrp1yrKXjA0ctZXS9WWS9kDiX6y\nqO3RDukh9wKBgQCsx/4sCFdnmqPsCsb0sMgUU2L3NjCdW7bCgTVAXQu5PSsAc9B7\nt8HuXFCH5hUps0Uk6RcFpmQ2WiT1Y1TusEqkdDaE91bA1SAJF+NG0o5lKSBB1BLY\nkKKD1+9Y/WjzF1/o4/iL/qySC1Z/Z22EZUOtKxk6EdeS3X7hpGaEkKvLiQKBgGdW\nVFSwwM7K1JDCuHGIiScWl1gNFJ7+IQrc5hTF+it3IR+yuVjKN4Ej7YbPdIDSvp6t\n+Af1vVK+EaUczij/DEMGanPoNzMp2ogeGQ9VthUiZ8d8SWNzHYGorUDbNwS1uvh8\nSfJYarK57sK+PAi1OeSPq8yIubNhqFn8Z/0R9x+JAoGBAJqaf/+1hPucstPrYMAs\nItFTmYSyZyNGi+3GRPkFN6Ts401+1ouAWqTYrajnfbuBEl8YAuhC0Yd811zNm4bt\nmT1LT4tJyf864MILJgz8T3Uf1DW1TK6UClhkqEoR4zWyl96qrh14FLH/ehAUB46Q\nHzSd4ZM0qUEPqQACUeGekXo/\n-----END PRIVATE KEY-----\n",
+  "client_email": "ruchita@project-ruchita.iam.gserviceaccount.com",
+  "client_id": "104006956634507835990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ruchita%40project-ruchita.iam.gserviceaccount.com"
+}
